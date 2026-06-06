@@ -25,9 +25,15 @@ Para poder probar este analizador en tu compu, vas a necesitar tener instalado l
 # Cómo poner en marcha el programa
 
 Seguí estos simples pasos desde la terminal o consola de comandos:
+## Cómo ejecutar y probar el analizador
+Para ver si el analizador trabaja bien, colocar en la terminal en la carpeta del proyecto, el siguiente comando y presioná **Enter**:
+
+```bash
+node index.js correcto1.txt
 
 # 1. Instalar las dependencias
 Primero, parate en la carpeta del proyecto y descargá las librerías necesarias ejecutando:
 ```bash
-npm install
+npm install 
+
  
